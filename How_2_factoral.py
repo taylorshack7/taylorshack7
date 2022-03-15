@@ -1,12 +1,5 @@
-# By submitting this assignment, I agree to the following:
+# Code to calc factorial w/o packages
 
-#  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-#  “I have not given or received any unauthorized aid on this assignment”
-#
-# Name:           Taylor Shackelford
-# Section:        ENGR 102 537
-# Assignment:     THE ASSIGNMENT NUMBER (e.g. Lab 1b-2)
-# Date:           DAY MONTH YEAR
 
 print('Just for fun')
 print()
