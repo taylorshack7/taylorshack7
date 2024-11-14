@@ -1,11 +1,4 @@
-# By submitting this assignment, I agree to the following:
-
-#  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-#  “I have not given or received any unauthorized aid on this assignment”
-#
 # Name:           Taylor Shackelford
-# Section:        ENGR 102 537
-# Assignment:     Lab 11b Part D
 # Date:           D15/ 11/ 2019
 import csv
 
