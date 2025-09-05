@@ -1,0 +1,48 @@
+<html>
+	<head>
+		First HTML Project - 'New Product'
+	</head><!--This HTML code displays various skills learned from SoloLearn's 'Intro to HTML' course-->
+	<body>
+		<header>
+			<h1 style="background-color:#FFCA3A; text-align:center">First HTML Project - 'New Product'</h1>
+		</header>
+		<main>
+			<div style ='text-align:left;'>
+				<img src="https://blob.sololearn.com/courses/np.png" width='500' height='265'>
+				<p>This word is <b>BOLD</b> <i>Italic</i> 
+				<u>Underlined</u></p>
+				<ul>
+					<li>First HTML Bullet</li>
+					<li>Second HTML Bullet</li>
+					<li>Third HTML Bullet</li>
+				</ul>
+				<br>
+				<h2><b>Order Now!</b></h2>
+				<form>
+					<label for 'size'>Size:</label>
+					<select id='size' name='size' required> 
+						<option value=''>--Please choose--</option>
+						<option value='sma'>Small</option>
+						<option value='med' selected>Medium</option>
+						<option value='lrg'>Large</option>
+					</select>
+					<label>Color</label>
+					<select id='color' name='color' required> 
+						<option value=''>--Please choose--</option>
+						<option value='r' selected>Red</option>
+						<option value='p'>Pink</option>
+						<option value='y'>Yellow</option>
+					</select><br>
+					<label>Name:</label>
+					<input type='text' name='name'><br>
+					<label>Email:</label>
+					<input type='text' name='email'><br>
+					<button type ='button' style="background-color:Grey; color:white; border:none; border-radius:5px" onclick="alert('Order Confirmed!')">Submit</button> 
+				</form>	
+			</div>
+		</main>
+		<footer>
+			<p style="background-color:#FFCA3A;text-align:center">Made with &lt3</p>
+		</footer>
+	</body>
+</html> 
