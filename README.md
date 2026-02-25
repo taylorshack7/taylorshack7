@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taylorshack7
-- 👀 I’m interested in ... Applied Artificial Intellegence, Machine Learning, Application Development, Cyber Security, and creating meaningful software to benefit those who use it!
+- 👀 I’m interested in ... applied artificial intellegence, machine learning, application development, cyber security, and creating meaningful software to benefit those who use it!
 - 🌱 I’m currently learning ... Python, Machine Learning, SQL, TensorFlow, #, HTML, CSS, JS, ASP.NET core, React and hopefully more in the future!
-- 💞️ I’m looking to collaborate on ... building go-to-market apps through Python/Codex, creating predicition models for unique datasets with rela world outcomes, and development of cryptocurrencies 
+- 💞️ I’m looking to collaborate on ... building go-to-market apps through python/codex, LLM integration, training models on unique datasets for real world outcomes, and development of cryptocurrencies 
 - 📫 How to reach me ... email: taylorshack7@yahoo.com || LinkedIn: https://www.linkedin.com/in/taylor-shackelford/ 
 
 <!---
